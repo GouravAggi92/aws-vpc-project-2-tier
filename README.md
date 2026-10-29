@@ -22,6 +22,16 @@
 
 **command:     ssh -i C:\Users\goura\Downloads\myec2key.pem ubuntu@server_ip**
 
+
+**app running on server:**  
+
+command :   python3 -m http.server 8000
+
 <img width="921" height="687" alt="Screenshot 2026-10-29 110618" src="https://github.com/user-attachments/assets/d27f7eb2-492c-46c1-be61-6da9152b11f1" />
 
+
+
+**by using load balancer dns ip to test or access this app:**
+
+<img width="1203" height="308" alt="image" src="https://github.com/user-attachments/assets/edec0d73-f5f1-461f-bcc7-b671ae75bc8a" />
 
