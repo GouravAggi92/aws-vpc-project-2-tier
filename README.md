@@ -31,7 +31,13 @@ command :   python3 -m http.server 8000
 
 
 
+
+
+
 **by using load balancer dns ip to test or access this app:**
+
+
+
 
 <img width="1203" height="308" alt="image" src="https://github.com/user-attachments/assets/edec0d73-f5f1-461f-bcc7-b671ae75bc8a" />
 
