@@ -12,3 +12,7 @@
 **SSH key pair and access control:** Generate an SSH key pair and securely store the private key. Configure the instances to allow SSH access only with the generated key pair. Implement IAM policies and roles to control access and permissions to AWS resources.
 
 **Test and validate the setup:** SSH into the EC2 instances using the private key and verify connectivity. Test network connectivity between instances in different subnets. Validate security group rules and network ACL settings.
+
+<img width="921" height="687" alt="Screenshot 2026-10-29 110618" src="https://github.com/user-attachments/assets/d27f7eb2-492c-46c1-be61-6da9152b11f1" />
+
+
