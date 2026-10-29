@@ -15,12 +15,12 @@
 
 **Copy private key to bestion server to connect to ec2 server in private subnnet :**
 
-**command:    scp -i C:\Users\goura\Downloads\myec2key.pem C:\Users\goura\Downloads\myec2key.pem ubuntu@bestion server public ip:/home/ubuntu**
+**command:      scp -i C:\Users\goura\Downloads\myec2key.pem C:\Users\goura\Downloads\myec2key.pem ubuntu@bestion server public ip:/home/ubuntu**
 
 
 ****Login in ec2 server:**
 
-**command:  ssh -i C:\Users\goura\Downloads\myec2key.pem ubuntu@server_ip**
+**command:     ssh -i C:\Users\goura\Downloads\myec2key.pem ubuntu@server_ip**
 
 <img width="921" height="687" alt="Screenshot 2026-10-29 110618" src="https://github.com/user-attachments/assets/d27f7eb2-492c-46c1-be61-6da9152b11f1" />
 
