@@ -32,6 +32,13 @@ command :   python3 -m http.server 8000
 <img width="1920" height="773" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/a632b57d-0f1f-4731-b66a-9736815c7d44" />
 
 <img width="1920" height="768" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/007ef4ea-4a84-4dd8-aaba-fb58be4b7281" />
+<img width="1920" height="696" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/f4435e67-6e6f-4592-94a0-040cb923115b" />
+<img width="1920" height="749" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/9178ea99-8a77-48eb-8f0e-c1c0f7c7653f" />
+<img width="1920" height="693" alt="Screenshot (107)" src="https://github.com/user-attachments/assets/1b84b63c-2e65-4a31-9f33-df2d5300dba6" />
+<img width="1920" height="763" alt="Screenshot (108)" src="https://github.com/user-attachments/assets/ba9bcb3a-9644-42dc-ac6c-82706bfaf2a2" />
+<img width="1920" height="613" alt="Screenshot 2026-10-27 212752" src="https://github.com/user-attachments/assets/1faaae77-58a0-41a5-b8b5-c6a89d2ec82e" />
+
+
 
 
 
